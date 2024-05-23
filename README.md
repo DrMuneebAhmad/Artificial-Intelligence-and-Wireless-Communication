@@ -17,13 +17,13 @@ Please cite the articles as:
 
 URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10547510&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
-[2] Ahmad, Muneeb; Shin, Soo Young (2022): Deep Learning aided SIC for Wavelet-based Massive MIMO-NOMA. TechRxiv. Preprint. 
+[2] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
 
 DOI: (https://doi.org/10.36227/techrxiv.21679343.v1)
 
 Related Link: (https://kr.mathworks.com/matlabcentral/fileexchange/75478-deep-learning-for-signal-detection-in-noma-systems)
 
-[3] Ahmad, Muneeb; Shakeel, Tanzeela; Shin, Soo Young (2022): Image Super Resolution based Channel Estimation for Future Wireless Communication. TechRxiv. Preprint. 
+[3] Ahmad M, Shakeel T, Shin SY. Image super resolution based channel estimation for future wireless communication. Computer Networks. 2023 Dec 1;237:110057. 
 
 DOI:(https://doi.org/10.36227/techrxiv.21523992.v1)
 
