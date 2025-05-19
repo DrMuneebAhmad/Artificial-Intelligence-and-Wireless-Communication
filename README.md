@@ -13,13 +13,13 @@ network (DNN) for the data recovery with and without imperfections in MIMO-NOMA.
 
 Please cite the articles as:
 
-[1] Ahmad M, Shakeel T, Shin SY. Image super resolution based channel estimation for future wireless communication. Computer Networks. 2023 Dec 1;237:110057.
+[1] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
 
-[2] M. Ahmad, M. S. Sarwar and S. Y. Shin, "Deep Learning Assisted Channel Estimation for Adaptive Parameter Selection in mMIMO-SEFDM," in IEEE Internet of Things Journal.
+[2] Ahmad M, Shakeel T, Shin SY. Image super resolution based channel estimation for future wireless communication. Computer Networks. 2023 Dec 1;237:110057.
+
+[3] M. Ahmad, M. S. Sarwar and S. Y. Shin, "Deep Learning Assisted Channel Estimation for Adaptive Parameter Selection in mMIMO-SEFDM," in IEEE Internet of Things Journal.
 
 (DOI: 10.1109/JIOT.2025.3554763)
-
-[3] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
 
 [4] Muneeb, A., & Ramatryana, I. N. A. (2021). Deep Learning Enabled MIMO-NOMA System: A Genesis of 6G and Artificial Intelligence. 한국통신학회 학술대회논문집, 259-262.
 
