@@ -13,18 +13,26 @@ network (DNN) for the data recovery with and without imperfections in MIMO-NOMA.
 
 Please cite the articles as:
 
-[1] Muneeb, A., & Ramatryana, I. N. A. (2021). Deep Learning Enabled MIMO-NOMA System: A Genesis of 6G and Artificial Intelligence. 한국통신학회 학술대회논문집, 259-262.
+[1] Ahmad M, Shakeel T, Shin SY. Image super resolution based channel estimation for future wireless communication. Computer Networks. 2023 Dec 1;237:110057.
+
+[2] M. Ahmad, M. S. Sarwar and S. Y. Shin, "Deep Learning Assisted Channel Estimation for Adaptive Parameter Selection in mMIMO-SEFDM," in IEEE Internet of Things Journal.
+
+(DOI: 10.1109/JIOT.2025.3554763)
+
+[3] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
+
+[4] Muneeb, A., & Ramatryana, I. N. A. (2021). Deep Learning Enabled MIMO-NOMA System: A Genesis of 6G and Artificial Intelligence. 한국통신학회 학술대회논문집, 259-262.
 
 URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10547510&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
-[2] Ahmad M, Shin SY. Wavelet-based massive MIMO-NOMA with advanced channel estimation and detection powered by deep learning. Physical Communication. 2023 Dec 1;61:102189.
+# Acknowledgments
 
-DOI: (https://doi.org/10.36227/techrxiv.21679343.v1)
+The above-mentioned DL-based channel estimation and detection work builds upon code from the following repository:
 
-Related Link: (https://kr.mathworks.com/matlabcentral/fileexchange/75478-deep-learning-for-signal-detection-in-noma-systems)
+(https://github.com/wjddn279/DeepLearning_MIMO-NOMA)
 
-[3] Ahmad M, Shakeel T, Shin SY. Image super resolution based channel estimation for future wireless communication. Computer Networks. 2023 Dec 1;237:110057. 
+(https://kr.mathworks.com/matlabcentral/fileexchange/75478-deep-learning-for-signal-detection-in-noma-systems)
 
-DOI:(https://doi.org/10.36227/techrxiv.21523992.v1)
-
-Related Link: (https://kr.mathworks.com/help/5g/ug/deep-learning-data-synthesis-for-5g-channel-estimation.html)
+(https://kr.mathworks.com/help/5g/ug/deep-learning-data-synthesis-for-5g-channel-estimation.html)
+ 
+I gratefully acknowledge their contribution. Please refer to their original repository for more details.
