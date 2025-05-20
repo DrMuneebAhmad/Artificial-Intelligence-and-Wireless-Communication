@@ -27,12 +27,18 @@ URL: (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10547510&googleIPSandBox
 
 # Acknowledgments
 
-The above-mentioned DL-based channel estimation and detection work builds upon code from the following repository:
+The above-mentioned DL-based channel estimation and detection work builds upon code from the following repositories:
 
 (https://github.com/wjddn279/DeepLearning_MIMO-NOMA)
 
 (https://kr.mathworks.com/matlabcentral/fileexchange/75478-deep-learning-for-signal-detection-in-noma-systems)
 
 (https://kr.mathworks.com/help/5g/ug/deep-learning-data-synthesis-for-5g-channel-estimation.html)
+
+(https://drive.google.com/file/d/1H5GiEWITfM00R4BS2uC3SiBLR0EZKX8m/view?usp=sharing)
+
+(https://drive.google.com/file/d/1mwnfXalDUTebreMZqUNHRGAENAeJL1Nn/view?usp=sharing)
+
+(https://drive.google.com/file/d/1j0BcBoVKCDInryqfCRPjINAUrFrI_rxB/view?usp=sharing)
  
 I gratefully acknowledge their contribution. Please refer to their original repository for more details.
